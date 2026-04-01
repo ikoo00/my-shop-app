@@ -25,12 +25,12 @@ Aplikasi My Shop adalah sebuah purwarupa (prototype) e-commerce sederhana berbas
 
 ### Product List
 <p align="center">
-  <img src="./assets/screenshots/product.jpeg" alt="Product" width="250" />
+  <img src="./assets/product.jpeg" alt="Product" width="250" />
 </p>
 
 ### Keranjang Belanjaan
 <p align="center">
-  <img src="./assets/screenshots/cart.jpeg" alt="Cart" width="250" />
+  <img src="./assets/cart.jpeg" alt="Cart" width="250" />
 </p>
 
 ## Cara Menjalankan
